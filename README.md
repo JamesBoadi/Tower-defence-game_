@@ -1,3 +1,4 @@
-# Scripts for the game are located in the game folder
+# 
+Scripts for the game are located in the game folder
 
 
