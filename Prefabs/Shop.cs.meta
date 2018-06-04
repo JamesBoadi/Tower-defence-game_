@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8185e862639cee347a3b4fe50f2edc9c
+timeCreated: 1493145571
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - missleLauncher: {fileID: 1392860973691938, guid: 9d189c0c2bbaac141894b25641053b52,
+      type: 2}
+  - doubleCannon: {fileID: 1317941193293562, guid: 12d02487b5aa31649a358abb16621e38,
+      type: 2}
+  - singleCannon: {fileID: 1967514726249190, guid: 25fde9bc4186d56458fa519d1443dc07,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
